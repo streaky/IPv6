@@ -95,7 +95,7 @@ class ipv6 {
 	 *
 	 * @param string $cidr
 	 *
-	 * @return \tera\net\ipv6_range
+	 * @return ipv6_range
 	 */
 	public static function cidrToRange($cidr) {
 		
